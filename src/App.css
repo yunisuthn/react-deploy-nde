@@ -1,0 +1,72 @@
+/* .textarea{
+  width: 200000000000px;
+  height: 100000px;
+} */
+
+.create{
+  margin-top: 40px;
+  margin-left: 300px;
+}
+
+.ligne{
+  margin-right: 50px;
+}
+
+.ligne1{
+  margin-top: 20px;
+  margin-left: 50px;
+}
+
+.sup{
+  margin-top: 30px;
+}
+
+.ligne2{
+  margin-top: 20px;
+  width: 50px;
+  margin-left: 50px;
+}
+
+.table{
+  margin-left: 280px;
+  width: 840px;
+  text-align: center;
+  
+}
+td{
+  border: 1px solid black;
+  text-align: center;
+  width: 125px;
+  }
+
+.btn1{
+
+  margin-left: 20px;
+}
+
+thead{
+  width: 100px;
+}
+
+
+
+.boutton2{
+  margin-left: 20px;
+}
+
+.confirm{
+  background-color: rgb(24, 240, 189);
+  width: 400px;
+  border-radius: 10px;
+  text-align: center;
+  height: 200px;
+}
+
+.delete{
+  background-color: rgb(255, 30, 14);
+  width: 250px;
+  border-radius: 10px;
+  text-align: center;
+  height: 200px;
+  padding-top: 10px;
+}
